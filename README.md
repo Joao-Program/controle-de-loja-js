@@ -61,12 +61,14 @@ Ou simplesmente abra no navegador copiando o código para o console (F12).
 
 **📘 Exemplos de Uso**
 
+```js
 adicionarProduto("Calça", 120);
 console.log(aplicarDesconto(10));
 console.log(buscarProduto("Camisa"));
 console.log(listarVendidos());
 console.log(calcularTotalVendido());
 console.log(ordenarPorPreco());
+```
 
 **💻 Tecnologias Utilizadas**
 
